@@ -338,3 +338,4 @@ package.json
 .husky/
 package-lock.json
 commit.log
+.release-it.json
