@@ -1,5 +1,12 @@
 
 
+## [1.4.0](https://github.com/yszar/books/compare/1.3.0...1.4.0) (2022-11-13)
+
+
+### ✨ Features | 新功能
+
+* **C# 语言:** 新增C# 资料 ([692180f](https://github.com/yszar/books/commit/692180f2cfdf9934e06a39cacd6b2447cd73ddb3))
+
 ## [1.3.0](https://github.com/yszar/books/compare/1.1.0...1.3.0) (2022-11-13)
 
 
