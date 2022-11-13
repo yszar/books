@@ -104,6 +104,24 @@
 
 ## Javascript
 
+- :orange_book: JavaScript基础教程（第8版)&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1JiXduZ4ea_AdnCDlxOgWOg)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：48ax
+
+- :orange_book: JavaScript权威指南(第5版)中文版(下)&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1W--1ScrKX-yNa8_lZG8jnQ)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：fc4u
+
+- :orange_book: JavaScript权威指南(第5版)中文版(上)&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/103TrinPAwf7E3kBHSuFdqg)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：izvq
+
+- :orange_book: JavaScript面向对象精要&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/11tc0cCVNNldfxdatN0On-g)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：9buv
+
+- :orange_book: 了不起的Nodejs将JavaScript进行到底&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/18zOoX8GcsOyL4LMdJrcJwg)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：qefu
+
+- :orange_book: Javascript框架设计&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1GhZKhCOs8xrzpDv0jWGPGg)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：nk3q
+
+- :orange_book: JavaScript框架高级编程  应用Prototype、YUI、Ext JS、Dojo、MooTools&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1gGh_lByxNQN3yn-xGPtrRA)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：frwy
+
+- :orange_book: JavaScript入门经典（第5版）&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1G2JIpBhvUhhUVqynr7vjxw)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：m636
+
+- :orange_book: JavaScript权威指南(第6版)&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1IdR7hpgOzrY7Zs5MuGX86A)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：ahim
+
 ## JVM
 
 ## Kafka
