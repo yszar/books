@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/yszar/books/compare/1.1.0...1.3.0) (2022-11-13)
+
+
+### ✨ Features | 新功能
+
+* **Javascript:** 新增9本资料 ([e9983c8](https://github.com/yszar/books/commit/e9983c810a0841142964070978949c503c71dc48))
+
 ## 1.1.0 (2022-11-13)
 
 
