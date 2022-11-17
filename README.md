@@ -182,6 +182,10 @@
 
 - :orange_book: 深入浅出Docker&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1ZNGEFjpgF7fML99ofGx8kg)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：9u22
 
+- :orange_book: 微服务架构实战基于SpringBoot SpringCloud Docker&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1bnRO9RejyObUjU23v7eE5A)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：qpb3
+
+- :orange_book: 微服务架构下Docker实践，以及Docker在测试环境的应用&nbsp;&nbsp;&nbsp;&nbsp;:link: [百度云下载链接](https://pan.baidu.com/s/1S-tE782qA3II9xlAhUFLHQ)&nbsp;&nbsp;&nbsp;&nbsp;:key: 提取码：neq9
+
 ## Elasticsearch
 
 ## Git
