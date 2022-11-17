@@ -1,5 +1,12 @@
 
 
+## [1.6.0](https://github.com/yszar/books/compare/1.5.1...1.6.0) (2022-11-17)
+
+
+### ✨ Features | 新功能
+
+* **PDF:** 新增PDF ([072b3a2](https://github.com/yszar/books/commit/072b3a208871050787814b6942fc6fbc4a8c7fbb))
+
 ### [1.5.1](https://github.com/yszar/books/compare/1.5.0...1.5.1) (2022-11-17)
 
 
