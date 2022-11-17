@@ -1,5 +1,12 @@
 
 
+## [1.5.0](https://github.com/yszar/books/compare/1.4.0...1.5.0) (2022-11-17)
+
+
+### ✨ Features | 新功能
+
+* **Docker:** 新增Docker分类PDF ([9fed680](https://github.com/yszar/books/commit/9fed680e56a57b998221cdfd65d89dc877bcfaab))
+
 ## [1.4.0](https://github.com/yszar/books/compare/1.3.0...1.4.0) (2022-11-13)
 
 
