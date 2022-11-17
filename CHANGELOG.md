@@ -1,5 +1,12 @@
 
 
+### [1.5.1](https://github.com/yszar/books/compare/1.5.0...1.5.1) (2022-11-17)
+
+
+### 📦 Chores | 其他更新
+
+* **Docker:** 新增2个Docker PDF ([ee144da](https://github.com/yszar/books/commit/ee144da8db2cb8d90f935adf52195185cd656f1d))
+
 ## [1.5.0](https://github.com/yszar/books/compare/1.4.0...1.5.0) (2022-11-17)
 
 
